@@ -1,0 +1,17 @@
+1 ====>  https://www.youtube.com/watch?v=ab-dCMel3vo&list=PL1TTshwbD-5kP9AWlyOmPkUQPkrrxEbhW&index=1
+
+2 ====> https://github.com/kofiarhin/yt-booking-app
+
+3 ====> command npm init -y
+
+4 ====> npm i express dotenv mongoose jsonwebtoken
+
+5 ====> create server folder inside that server.js
+
+6 ====> in package.json file "inside script"  --->  "server": "nodemon server/server.js"
+
+7 ====> create .env file
+
+8 ====> in server folder create create config folder inside create db.js file
+
+9 ====>  
